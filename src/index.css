@@ -1,3 +1,9 @@
+html {
+  height: 100%;
+  scroll-behavior: smooth;
+  background-color: #fad185;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,4 +11,15 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  height: 100%;
+}
+
+#root {
+  height: 100%;
+}
+
+:root {
+  --blackGradient: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,1));
+  --whiteGradient: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 1));
+  --gutter: 20px;
 }
