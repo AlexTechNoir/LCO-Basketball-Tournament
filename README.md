@@ -21,4 +21,3 @@ Demo website made with ReactJS (CRA) for the challenge: https://youtu.be/hqvGOPB
 3. [Font Awesome](https://github.com/FortAwesome/Font-Awesome/)
 4. [Animate.css](https://github.com/daneden/animate.css)
 5. [Google Fonts](https://fonts.google.com/)
-6. [Format Factory](http://www.pcfreetime.com/formatfactory/index.php) (for converting images)
