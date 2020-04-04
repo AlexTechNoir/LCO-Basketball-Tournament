@@ -12,6 +12,7 @@ Demo website made with ReactJS (CRA) for the challenge: https://youtu.be/hqvGOPB
 - mobile first
 - each section designed to fit any viewport
 - Team section has scrollable list of team players, so any amount of players can be added
+- team players photos and stats are taken from https://stats.nba.com/
 
 ### What did I use to make this demo:
 
