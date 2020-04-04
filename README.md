@@ -15,9 +15,9 @@ Demo website made with ReactJS (CRA) for the challenge: https://youtu.be/hqvGOPB
 
 ### What did I use to make this demo:
 
-1. [styled-components](https://github.com/styled-components/styled-components)
-2. [Bootstrap](https://github.com/twbs/bootstrap) (mainly for convenient conditional inline styling)
-3. [Font Awesome](https://github.com/FortAwesome/Font-Awesome/)
-4. [Animate.css](https://github.com/daneden/animate.css)
-5. [Google Fonts](https://fonts.google.com/)
-6. [Format Factory](http://www.pcfreetime.com/formatfactory/index.php) (for converting images)
+1.[styled-components](https://github.com/styled-components/styled-components)
+2.[Bootstrap](https://github.com/twbs/bootstrap) (mainly for convenient conditional inline styling)
+3.[Font Awesome](https://github.com/FortAwesome/Font-Awesome/)
+4.[Animate.css](https://github.com/daneden/animate.css)
+5.[Google Fonts](https://fonts.google.com/)
+6.[Format Factory](http://www.pcfreetime.com/formatfactory/index.php) (for converting images)

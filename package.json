@@ -34,5 +34,10 @@
   },
   "devDependencies": {
     "cross-env": "^7.0.2"
+  },
+  "hosting": {
+    "headers": [
+      {"source": "/service-worker.js", "headers": [{"key": "Cache-Control", "value": "no-cache"}]}
+    ]
   }
 }
